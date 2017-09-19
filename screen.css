@@ -240,6 +240,7 @@ fieldset {
   border-color: Black;
   border-width: 2px;
   padding: 1em;
+  font-family: Verdana, sans-serif;
   margin: auto;
   width: 15em;
   display: block;
