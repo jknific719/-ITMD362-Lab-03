@@ -234,6 +234,9 @@ h2 {
   padding-right: .5em;
 }
 
+p {
+  padding: .5em;
+}
 
 fieldset {
   border-style: dashed;
@@ -241,7 +244,7 @@ fieldset {
   border-width: 2px;
   padding: 1em;
   font-family: Verdana, sans-serif;
-  margin: auto;
+  margin: 0 auto;
   width: 15em;
   display: block;
   text-align: center;
